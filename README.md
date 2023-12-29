@@ -1,5 +1,5 @@
 # Lombardo-Florian.github.io
-## Objectifs :
+### Objectifs :
 
 
 Portfolio de Florian Lombardo, étudiant en BTS SIO
