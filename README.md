@@ -2,7 +2,7 @@
 ### Objectifs :
 
 1. Mettre en oeuvre les technologies web pour créer et héberger mon portfolio
-![Logo de l'IDE Apache Netbeans](/images/logoApacheNetbeansIDE.jpg)
+> ![Logo de l'IDE Apache Netbeans](/images/logoApacheNetbeansIDE.jpg)
 - NetBeans : Environnement de développement intégré (IDE) utilisé pour ce projet
 - HTML : Langage de description utilisé pour concevoir les pages web
 - CSS : Langage de style utilisé pour mettre en forme les pages web
@@ -26,6 +26,7 @@
    Documentation
        -
    Gestion de version, développement collaboratif et gestion d'incidents
+       -
    - Je présente la façon dont j'organise ma veille et la façon dont je m'en sert
 
 3. Pour l'épreuve E5
